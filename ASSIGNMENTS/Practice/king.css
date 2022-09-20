@@ -1,0 +1,19 @@
+ body{
+    text-align: center;
+ }
+ div{
+    display: inline-block;
+
+ }
+ button{
+    display: inline-block;
+    font-weight: bold;
+    font-size: larger;
+    width: 200px;
+    height: 100px;
+    background: blue;
+ }
+ button:hover{
+    background: white;
+    transition: 0.4s ease;
+ }
